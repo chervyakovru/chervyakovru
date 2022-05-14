@@ -1,9 +1,11 @@
-<img align="left" src="https://media.giphy.com/media/xT5LMvTWblNaHIR3dm/giphy.gif" width="250"/>
+<img align="left" src="https://media.giphy.com/media/xT5LMvTWblNaHIR3dm/giphy.gif" width="350"/>
 
-❤️ I am a frontend developer who loves programming like nothing else
+## I'm a Frontend Developer!
 
-👨‍💻 I work in a cloud technology platform. We provide individuals and companies with IT infrastructure for the development of their business
+❤️ Love programming like nothing else
 
-👨‍🎓 I also help the guys with the study of the frontend and backend
+👨‍💻 Work in a cloud technology platform. We provide individuals and companies with IT infrastructure for the development of their business
 
-<img align="bottom" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="16"/> you can always contact me here: <a href="https://t.me/chervyakovru">t.me/chervyakovru</a>
+👨‍🎓 Also help guys with the study of the frontend and backend
+
+<img align="bottom" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="16"/>  You can always contact me here: <a href="https://t.me/chervyakovru">t.me/chervyakovru</a>
