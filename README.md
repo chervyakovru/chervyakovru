@@ -1,4 +1,4 @@
-<img align="left" src="https://media.giphy.com/media/xT5LMvTWblNaHIR3dm/giphy.gif" width="350"/>
+<img src="https://media.giphy.com/media/xT5LMvTWblNaHIR3dm/giphy.gif" width="350"/>
 
 ## I'm a Frontend Developer!
 
